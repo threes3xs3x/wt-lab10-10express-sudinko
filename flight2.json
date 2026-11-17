@@ -1,0 +1,8 @@
+{
+  "number": "B2-777",
+  "from": "Минск",
+  "to": "Стамбул",
+  "price": 350,
+  "isAvailable": true,
+  "description": "Обновлённое описание"
+}
